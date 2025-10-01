@@ -4,3 +4,13 @@ Hi, my name is Juliana Roberts, but everyone calls me Juju. I’m from Westchest
 
 
 My favorite food is ramen. 
+
+
+RIT Software Engineering Website: https://www.rit.edu/computing/department-software-engineering
+
+
+What I would like to learn from this course:
+- Careers for software engineers
+- How to create a software engineering group project 
+- More about creating websites
+- General information about software engineering
